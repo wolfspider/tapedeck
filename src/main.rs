@@ -2,7 +2,7 @@
 use bsq;
 
 fn main() {
-    println!("Starting TapeDeck: type something and press enter");
+    println!("Starting TapeDeck");
     bsq::bsq();
     
 }
